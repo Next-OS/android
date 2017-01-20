@@ -24,8 +24,8 @@
   </project>
 
   <project path="android" name="Next-OS/android" remote="github" revision="n" />
-  <project path="frameworks/base" name="Next-OS/frameworks_base" remote="github" revision="n" />
-  <project path="packages/apps/Settings" name="Next-OS/packages_apps_Settings" remote="github" revision="n" />
+  <project path="frameworks/base" name="Next-OS/frameworks_base" remote="github" revision="ng7.1" />
+  <project path="packages/apps/Settings" name="Next-OS/packages_apps_Settings" remote="github" revision="ng7.1" />
   <project path="vendor/next" name="Next-OS/vendor_next" remote="github" revision="n" />
 
 <!-- Aosp -->
