@@ -578,7 +578,6 @@
   <project path="external/stagefright-plugins" name="SlimRoms/android_external_stagefright-plugins" />
   <project path="external/ntfs-3g" name="SlimRoms/android_external_ntfs-3g" />
   <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" />
-  <project path="frameworks/opt/slim" name="SlimRoms/frameworks_opt_slim" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
 
   <!-- OMS Additions -->
