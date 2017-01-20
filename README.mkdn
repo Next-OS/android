@@ -1,0 +1,14 @@
+<img src="https://raw.githubusercontent.com/Next-OS/android/n/nextos_logo.png">
+
+Bienvenidos a Next-OS Project.
+
+Sincronizar codigo:
+
+repo init -u git://github.com/Next-OS/android.git -b n
+
+Descargamos el codigo fuente con:
+
+repo sync -j16 --force-sync
+
+
+
