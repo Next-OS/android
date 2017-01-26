@@ -28,7 +28,7 @@
   <project path="frameworks/opt/slim" name="Next-OS/frameworks_opt_slim" remote="github" revision="n" />
   <project path="packages/apps/Settings" name="Next-OS/packages_apps_Settings" remote="github" revision="n" />
   <project path="packages/apps/NextSettings" name="Next-OS/packages_apps_NextSettings" remote="github" revision="n" />
-  <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="pure" revision="android-7.1" />
+  <project path="packages/apps/OmniStyle" name="PureNexusProject/android_packages_apps_OmniStyle" remote="github" revision="android-7.1" />
   <project path="vendor/next" name="Next-OS/vendor_next" remote="github" revision="n" />
 
 <!-- Toolchains -->
