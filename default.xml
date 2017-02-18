@@ -45,6 +45,9 @@
   <project path="external/ant-wireless/antradio-library" name="DirtyUnicorns/android_external_ant-wireless_antradio-library" remote="github" revision="n7x-caf"/>
   <project path="hardware/ril" name="DirtyUnicorns/android_hardware_ril" remote="github" revision="n7x-caf" />
 
+<!-- Tipsy -->
+  <project path="device/qcom/common" name="TipsyOS/device_qcom_common" remote="github" revision="n7.1"/>
+
 <!-- Aosp -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" />
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
@@ -546,7 +549,6 @@
   <project path="external/connectivity" name="SlimRoms/android_external_connectivity" />
   <project path="external/libnetfilter_conntrack" name="SlimRoms/android_external_libnetfilter_conntrack" />
   <project path="external/libnfnetlink" name="SlimRoms/android_external_libnfnetlink" />
-  <project path="device/qcom/common" name="SlimRoms/device_qcom_common" />
   <project path="device/qcom/sepolicy" name="SlimRoms/device_qcom_sepolicy" />
   <project path="hardware/qcom/audio-caf/msm8916" name="SlimRoms/hardware_qcom_audio" revision="ng7.1-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8937" name="SlimRoms/hardware_qcom_audio" revision="ng7.1-caf-8937" />
