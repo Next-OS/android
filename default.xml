@@ -47,6 +47,7 @@
 
 <!-- Tipsy -->
   <project path="device/qcom/common" name="TipsyOS/device_qcom_common" remote="github" revision="n7.1"/>
+  <project path="hardware/qcom/bootctrl" name="TipsyOS/hardware_qcom_bootctrl" remote="github" revision="n7.1"/>
 
 <!-- Aosp -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" />
@@ -362,7 +363,6 @@
   <project path="hardware/intel/sensors" name="platform/hardware/intel/sensors" groups="intel_sensors" remote="aosp" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" remote="aosp" />
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt" remote="aosp" />
-  <project path="hardware/qcom/bootctrl" name="platform/hardware/qcom/bootctrl" groups="pdk" remote="aosp" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" remote="aosp" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" remote="aosp" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" remote="aosp" />
