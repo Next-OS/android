@@ -49,6 +49,7 @@
 <!-- Tipsy -->
   <project path="device/qcom/common" name="TipsyOS/device_qcom_common" remote="github" revision="n7.1"/>
   <project path="hardware/qcom/bootctrl" name="TipsyOS/hardware_qcom_bootctrl" remote="github" revision="n7.1"/>
+  <project path="system/sepolicy" name="TipsyOS/android_system_sepolicy" remote="github" revision="n7.1" />
 
 <!-- Aosp -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" />
@@ -542,7 +543,6 @@
   <project path="system/media" name="SlimRoms/android_system_media" />
   <project path="system/netd" name="SlimRoms/android_system_netd" />
   <project path="system/security" name="SlimRoms/android_system_security" />
-  <project path="system/sepolicy" name="SlimRoms/android_system_sepolicy" />
   <project path="system/vold" name="SlimRoms/android_system_vold" />
 
   <!-- CodeAurora Additions -->
