@@ -30,6 +30,7 @@
   <project path="packages/apps/NextSettings" name="Next-OS/packages_apps_NextSettings" remote="github" revision="n" />
   <project path="packages/apps/OmniStyle" name="PureNexusProject/android_packages_apps_OmniStyle" remote="github" revision="n-mr1" />
   <project path="packages/services/Telecomm" name="Next-OS/packages_services_Telecomm" remote="github" revision="n" />
+  <project path="system/core" name="Next-OS/android_system_core" remote="github" revision="n" />
   <project path="vendor/next" name="Next-OS/vendor_next" remote="github" revision="n" />
 
 <!-- Toolchains -->
@@ -536,7 +537,6 @@
   <project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="SlimRoms/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="SlimRoms/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" />
   <project path="system/bt" name="SlimRoms/android_system_bt" />
-  <project path="system/core" name="SlimRoms/android_system_core" />
   <project path="system/extras" name="SlimRoms/android_system_extras" />
   <project path="system/keymaster" name="SlimRoms/android_system_keymaster" />
   <project path="system/media" name="SlimRoms/android_system_media" />
