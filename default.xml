@@ -592,6 +592,6 @@
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
 
   <!-- OMS Additions -->
-  <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n7.1-rootless" />
+  <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
 
 </manifest>
